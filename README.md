@@ -1,3 +1,10 @@
+## Slack-clone-react
+
+**Slack-clone-react project is build using REACT.JS! (REDUX, Styled components & Firebase Hooks). The main reason to build this site to understand the LAYOUTS AND get hands-on with the REDUX toolkit and understand how  Firebase Hooks will easily simplify the work while structuring the firebase backend.**
+
+TRY WEBSITE :- https://slack-clone-c1839.web.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
